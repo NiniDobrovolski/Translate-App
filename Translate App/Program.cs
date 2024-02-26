@@ -18,8 +18,6 @@ Dictionary<char, int> sortedDictionary = null; // Dictionary to store sorted wor
 // Outer loop to control the translation process
 while (k)
 {
-    k = false; // Setting k to false initially
-
     string lang1 = null, lang2 = null; // Variables to store chosen languages
 
     // Inner loop to handle language selection
